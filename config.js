@@ -27,6 +27,7 @@ window.KETHER_CONFIG = {
     city: "Medellín",
     department: "Antioquia",
     country: "Colombia",
+    postalCode: "050015",
     phoneDisplay: "+57 318 170 9381",
     phoneRaw: "573181709381",
     email: "contacto@ketherstore.site",
