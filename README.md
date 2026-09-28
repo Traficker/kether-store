@@ -14,7 +14,7 @@ Respaldada institucionalmente por la personería de **A.C.I. AGENCIA DE COOPERAC
 - **Cámara de Comercio:** Cámara de Comercio de Medellín para Antioquia
 - **Código de Verificación:** dqgjgiYFMRQfkcWK
 - **Domicilio Principal:** Calle 41 55 80 OF 303, Medellín, Antioquia, Colombia
-- **Teléfono:** +57 318 140 9381
+- **Teléfono:** +57 318 170 9381
 - **Correo Electrónico:** contacto@ketherstore.site
 - **Sitio Web Oficial:** https://ketherstore.site
 
